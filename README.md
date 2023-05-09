@@ -1,7 +1,10 @@
 ### what's up guys! 😄 Me chamo Nycolas Gonsalvez
 
 
-Hoje eu trabalho com Front-end 💻 Estudando Python 👨🏻‍🎓🎓 Contate-me no gmail= Newstartstart55@gmail.com ⭐️ Um professor, é um eterno aprendiz!🧠
+Hoje eu trabalho com Front-end 💻 <br/>
+Estudando Python e ingles 👨🏻‍🎓🎓 <br/>
+Contate-me no gmail= Newstartstart55@gmail.com ⭐️ <br/>
+Um professor, é um eterno aprendiz!🧠 <br/>
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMystick&show_icons=true&theme=radical)
