@@ -8,7 +8,6 @@ Um professor, é um eterno aprendiz!🧠 <br/>
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMystick&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMystick&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="40" /> 
