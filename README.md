@@ -7,7 +7,7 @@ Contate-me no gmail= Newstartstart55@gmail.com ⭐️ <br/>
 Um professor, é um eterno aprendiz!🧠 <br/>
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMystick&show_icons=true&theme=radical)
+
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="40" /> 
